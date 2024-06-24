@@ -1,0 +1,15 @@
+for this project need to install all devOps tools :) 
+k8s minicube helm and more and more 
+if you can't please get out of here
+
+For start backup need to run 
+./startBackup.sh
+
+For stoping backup need to run  
+./stopBackup.sh
+
+For restore
+./restoreLast.sh
+
+if you have some problem with running script please not forgotten chmod
+chmod +x $script name 
